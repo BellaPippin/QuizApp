@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">QuizApp</string>
     <string name="welcome">Welcome!</string>
+
+    <string name="q1">What\'s your spirit animal when you\'re hangry?</string>
+    <string name="q2">How dramatic are you?</string>
+    <string name="q3">Is cereal soup?</string>
+    <string name="q4">Choose some burger toppings.</string>
+
+
 </resources>
